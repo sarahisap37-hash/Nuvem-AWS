@@ -33,6 +33,15 @@ Este laboratório tem como objetivo:
 Tempo estimado: **40 minutos**
 
 ---
+
+##  Restrições do Ambiente
+
+Neste laboratório:
+
+* O acesso a serviços da AWS pode estar limitado
+* Algumas ações podem gerar erro de permissão
+* Isso faz parte do ambiente controlado do laboratório
+
 ---
 
 ## 🔐 Conceitos Importantes do IAM
